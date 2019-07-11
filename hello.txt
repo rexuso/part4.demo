@@ -1,3 +1,4 @@
 hello bob
 hello alice
 hello mickey mouse
+merge bob
