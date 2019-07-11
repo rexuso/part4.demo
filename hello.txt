@@ -1,4 +1,10 @@
 hello bob
 hello alice
 hello mickey mouse
+
+# example of fetch and merge
+<<<<<<< HEAD
 merge bob
+=======
+merge alice
+>>>>>>> origin/master
