@@ -8,6 +8,8 @@ merge bob
 =======
 merge alice
 >>>>>>> origin/master
+
+# example of fetch and rebase
 <<<<<<< HEAD
 rebase alice
 =======
