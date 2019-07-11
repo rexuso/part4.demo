@@ -8,3 +8,4 @@ merge bob
 =======
 merge alice
 >>>>>>> origin/master
+rebase alice
